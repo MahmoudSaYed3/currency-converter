@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #258787d9;
+}
+.main-div{
+    background-color: #e1dddd;
+    width: 400px;
+    border-radius: 25px;
+}
+.input{
+    width: 280px;
+
+}
+.selections{
+    width: 300px;
+
+}
+.right-selection{
+    width: 100px;
+}
+.left-selection{
+    width: 100px;
+}
+.mybtn{
+    background-color: #258787d9;
+    color: white;
+    border-radius: 15px;
+    width: 280px;
+    height: 50px;
+    margin-bottom: 20px;
+    border-color: transparent;
+}
